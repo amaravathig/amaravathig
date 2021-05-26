@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @amaravathig
+- This is Widget sales data
 
 <!---
 amaravathig/amaravathig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
